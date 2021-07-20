@@ -2,8 +2,7 @@
 
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCeiqLNsKT95FGM8obq1GH4g?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/lucidmach?style=social)
-![GitHub followers](https://img.shields.io/github/followers/lucidmach?style=for-the-badge)
-[![Instagram Badge](https://img.shields.io/badge/-@lucidmach_-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&logoColor=white&link=http://instagram.com/lucidmach)](https://instagram.com/lucidmach)
+[![Instagram](https://img.shields.io/badge/-@lucidmach_-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&logoColor=white&link=http://instagram.com/lucidmach)](https://instagram.com/lucidmach)
 <!--
 **LucidMach/LucidMach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
