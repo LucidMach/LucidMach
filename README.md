@@ -1,7 +1,8 @@
-### Hi there 👋
+# Artistic Nihilist
+### 🌐 🤖 🎨🧠
 
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCeiqLNsKT95FGM8obq1GH4g?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/lucidmach?style=social)
+[![YouTUbe Batdge](https://img.shields.io/badge/-@lucidmach_-c10000?style=flat-square&labelColor=c10000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCeiqLNsKT95FGM8obq1GH4g)](https://www.youtube.com/channel/UCeiqLNsKT95FGM8obq1GH4g)
+[![Twitter Badge](https://img.shields.io/badge/-@lucidmach_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=http://twitter.com/lucidmach)](https://twitter.com/lucidmach)
 [![Instagram](https://img.shields.io/badge/-@lucidmach_-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&logoColor=white&link=http://instagram.com/lucidmach)](https://instagram.com/lucidmach)
 <!--
 **LucidMach/LucidMach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![github stats](https://github-readme-stats.vercel.app/api?username=lucidmach&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
+
+# GitHub Stats
+![github stats](https://github-readme-stats.vercel.app/api?username=lucidmach&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=00c1c1&icon_color=00cbcb&text_color=D3D3D3&bg_color=0,000000,00abab)
