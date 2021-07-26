@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 -->
 
 # GitHub Stats
-![github stats](https://github-readme-stats.vercel.app/api?username=lucidmach&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=0D0DEB&icon_color=0D0DEB&text_color=D3D3D3&bg_color=0,000000,00abab)
+![github stats](https://github-readme-stats.vercel.app/api?username=lucidmach&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=0D0DEB&icon_color=0D0DEB&text_color=D3D3D3&bg_color=0,000000,0c0cEa)
