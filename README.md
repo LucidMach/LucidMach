@@ -1,4 +1,5 @@
-# Artistic Nihilist
+# Artistic Nihilist 
+Code is my Art Form
 ### 🌐 🤖 🎨🧠
 
 [![YouTUbe Batdge](https://img.shields.io/badge/-@lucidmach_-c10000?style=flat-square&labelColor=c10000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCeiqLNsKT95FGM8obq1GH4g)](https://www.youtube.com/channel/UCeiqLNsKT95FGM8obq1GH4g)
